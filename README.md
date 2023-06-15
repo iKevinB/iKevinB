@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Kevin Blandín</h1>
 <h3 align="center">A passionate frontend developer from El Salvador.</h3>
+<br>
 <p>
   I design and code beautifully simple things, and I love what I do. I have been learning front-end development since 2020. I’ve always     been someone who has both a creative and a logical side. When I discovered web development in college, I realized it would be the         perfect fit. I could use my creative side to design and my logical side to code.
 </p>
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **zkevin124@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
